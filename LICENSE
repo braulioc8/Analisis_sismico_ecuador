@@ -1,0 +1,23 @@
+
+LICENCIA DE SOFTWARE PROPIETARIA Y RESTRICCIONES DE USO
+
+PROPIEDAD DEL SOFTWARE: 
+Este software, su arquitectura, lógica de procesamiento, capas DAO/Service e interfaz de usuario son propiedad intelectual exclusiva de Braulio Cajas (en adelante, "el Autor").
+
+PROPIEDAD DE LOS DATOS:
+Los datos sísmicos utilizados en este sistema son propiedad del Instituto Geofísico de la Escuela Politécnica Nacional (IGEPN) de Ecuador. El uso de dichos datos en este software es únicamente con fines académicos e investigativos.
+
+TÉRMINOS DE USO PARA COMPAÑEROS DE CLASE:
+El Autor concede permiso a sus compañeros de clase para:
+1. Utilizar el software con fines expositivos e interpretativos en el marco de la asignatura correspondiente.
+2. Modificar el código para experimentación académica personal.
+
+RESTRICCIONES ESTRICTAS:
+1. PROHIBICIÓN DE REDISTRIBUCIÓN: Queda estrictamente prohibida la venta, cesión o distribución de este software a terceros ajenos al grupo de clase autorizado sin consentimiento escrito del Autor.
+2. ATRIBUCIÓN: Ningún usuario podrá atribuirse la autoría original de este software. Cualquier uso público o presentación debe citar a Braulio Cajas como el desarrollador principal.
+3. USO COMERCIAL: Este software no puede ser utilizado para fines de lucro.
+
+SIN GARANTÍA:
+El software se proporciona "tal cual". El Autor no se hace responsable de las interpretaciones técnicas o decisiones de ingeniería tomadas basadas en los cálculos de este dashboard.
+
+Copyright (c) 2026 Braulio Cajas. Todos los derechos reservados.
